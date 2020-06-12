@@ -1,3 +1,12 @@
+Ensure MongoDB instance is running in local. 
+
+## To add in future
+
+1. User aunthentication, authorization with Passport 
+2. Redux for state management
+
+## REACT defaults
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
